@@ -1,5 +1,9 @@
-- 👋 Hi, I’m @paulo-rago
-- 👀 I’m interested in Django web aplicattion development;
-- 🌱 I’m currently learning C language, Django, Azure and Cypress.
-- 📫 How to reach me! Linkedin: www.linkedin.com/in/paulo-ricardo-a1a090219
+👋 Hi, I’m Paulo Rago
 
+👨‍💻 I’m passionate about web application development with Django and exploring the world of data analysis.
+
+🌱 Currently learning C, Django, Azure, Power BI, and Cypress.
+
+📊 Also interested in data processing, ETL pipelines, and SQL for business intelligence.
+
+- 📫 How to reach me! Linkedin: https://www.linkedin.com/in/paulo-rago-a1a090219/
